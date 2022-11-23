@@ -1,6 +1,6 @@
 {
     "username":"jerry",
-    "password":"root",
+    "password":"",
     "database":"git_test",
     "host":"127.0.0.1",
     "dialect":"mysql"
