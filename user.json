@@ -1,7 +1,12 @@
 [
     {
         "userid":"web7722",
+<<<<<<< HEAD
         "userpw":"1234"
 
+=======
+        "userpw":"1234",
+        "username":"jerry"
+>>>>>>> b0635e0 (feat : user.json 파일 추가 생성)
     }
 ]
